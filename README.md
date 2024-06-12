@@ -5,6 +5,6 @@ Taiko Trail is a short story about a village lost somewhere in the mountains and
 
 Some of the conditions are secret, but they are all simple. Some of them are: getting a Taiko airdrop, having a certain balance, having Taiko tokens, having Cinematic NFTs, subscribing to a channel in Farcaster, etc.
 
-Smart contract: 0x00000000000000000
+Smart contract: 0xb4295201674Fd2fB22Ac74C0880b7d0136F76aD7
 
 Link: [https://cinematiclabs.xyz/taiko/trail](https://cinematiclabs.xyz/taiko/trail)
